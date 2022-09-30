@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Input a Number : " 
 read num 
 if [ $num -gt 10 ] 

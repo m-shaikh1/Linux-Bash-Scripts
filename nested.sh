@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function1() {
 	echo "This is Function 1 "
 	function2 

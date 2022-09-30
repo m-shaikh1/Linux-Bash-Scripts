@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir DevOps1 
 mkdir DevOps2 
 echo ‘Welcome to AWS’ > DevOps1/aws.txt

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Input the First Number : "
 read num1 
 echo "Input the Second Number : "

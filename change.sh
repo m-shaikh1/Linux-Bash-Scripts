@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo $USERNAME 
 export USERNAME=user1
 echo $USERNAME
